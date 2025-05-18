@@ -10,7 +10,7 @@ This project demonstrates how to host a static personal website using Azure Blob
 - VS Code
 
 ## 🚀 Live Demo
-[https://rudolfwebsite123.blob.core.windows.net/$web/](https://rudolfwebsite123.blob.core.windows.net/$web/)
+[https://rudolfwebsite123.blob.core.windows.net/$web/](https://rudolfwebsite123.z1.web.core.windows.net/) 
 
 ## 📸 Screenshots
 (yet to insert the screenshot of my Azure deployment)![image](https://github.com/user-attachments/assets/505d2865-f67f-467c-b8fa-25cf875e5078)
