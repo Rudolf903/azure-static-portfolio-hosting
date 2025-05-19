@@ -1,7 +1,7 @@
 # azure-static-portfolio-hosting
 # Azure Static Website Hosting - Personal Portfolio
 
-This project demonstrates how to host a static personal website using Azure Blob Storage. The site was originally created using GitHub Pages and then deployed on Azure to learn cloud deployment fundamentals.
+This project demonstrates hosting a static personal website using Azure Blob Storage. The site was created using GitHub Pages and then deployed on Azure to learn cloud deployment fundamentals.
 
 ## 💻 Tools & Technologies
 - Azure Blob Storage
@@ -13,7 +13,7 @@ This project demonstrates how to host a static personal website using Azure Blob
 [https://rudolfwebsite123.blob.core.windows.net/$web/](https://rudolfwebsite123.z1.web.core.windows.net/) 
 
 ## 📸 Screenshots
-(yet to insert the screenshot of my Azure deployment)![image](https://github.com/user-attachments/assets/505d2865-f67f-467c-b8fa-25cf875e5078)
+![image](https://github.com/user-attachments/assets/505d2865-f67f-467c-b8fa-25cf875e5078)
 
 
 ## 🛠️ Steps Taken
@@ -27,3 +27,8 @@ This project demonstrates how to host a static personal website using Azure Blob
 - Setting up Azure static website hosting
 - Connecting GitHub projects to Azure
 - Understanding Azure resource groups and blob containers
+
+  
+## 🧑‍💻 Author
+**Khutso Rudolf Mabelane** — Cloud Engineering Student  
+🔗 [Portfolio](https://rudolf903.github.io) | [GitHub](https://github.com/Rudolf903)
