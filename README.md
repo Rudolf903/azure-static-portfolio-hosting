@@ -30,5 +30,5 @@ This project demonstrates hosting a static personal website using Azure Blob Sto
 
   
 ## 🧑‍💻 Author
-**Khutso Rudolf Mabelane** — Cloud Engineering Student  
+**Khutso Rudolf Mabelane** — Network systems Student  
 🔗 [Portfolio](https://rudolf903.github.io) | [GitHub](https://github.com/Rudolf903)
